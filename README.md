@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi I'm Alistair 👋
 
-<!--
-**agarioch/agarioch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Javascript & Python developer passionate about creating data driven apps with polished user experiences.
 
-Here are some ideas to get you started:
+I love learning about technology, design and business! I've built or deployed software for Healthcare, Banking, Aviation and Energy businesses while working at GE and HSBC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I love working with
+| Web | Data | Design |
+| :--- | :--- | :--- |
+| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  `Typescript` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  `Python` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />  `Illustrator` |
+| | |
+| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  `CSS` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />  `Pandas` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  `Figma` |
+| | |
+| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />  `Express` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  `Postgres` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />  `Photoshop` |
+| | |
+| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />  `D3` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />  `Sequelize` |  |
+| | |
+| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />  `Websockets` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />  `Mongodb` | |
+| | |
+| Ⓜ️  `FramerMotion` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />  `Redis` | |
+| | |
+| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />  `Flask` | | |
+
+### CV
+[LinkedIn](https://www.linkedin.com/in/garioch/)
