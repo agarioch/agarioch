@@ -17,9 +17,7 @@ I love learning about technology, design and business! I've built or deployed so
 | | |
 | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />  `Websockets` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />  `Mongodb` | |
 | | |
-| Ⓜ️  `FramerMotion` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />  `Redis` | |
-| | |
-| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />  `Flask` | | |
+| <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />  `Flask` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />  `Redis` | |
 
 ### CV
 [LinkedIn](https://www.linkedin.com/in/garioch/)
