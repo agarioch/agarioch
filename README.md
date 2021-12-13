@@ -2,7 +2,7 @@
 
 I'm a Javascript & Python developer passionate about creating data driven apps with polished user experiences and clean code.
 
-I love learning about technology, design and business! I've built or deployed software for Healthcare, Banking, Aviation and Energy businesses while working at GE and HSBC.
+I love learning about technology, design and business! I've worked on software for Healthcare, Banking, Aviation and Energy businesses while working at GE and HSBC.
 
 ### Technologies I love working with
 | Web | Data | Design |
